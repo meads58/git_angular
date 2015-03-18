@@ -10,5 +10,6 @@ Technology
 ------
 Angular.js
 JavaScript
-Karam (test runner)
-TDD with Jasmine
+Karam (JavaScript test runner)
+Jasmine (JavaScript test framework)
+Protractor (end to end testing)
